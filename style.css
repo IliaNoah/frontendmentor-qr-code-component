@@ -26,8 +26,8 @@ img {
 }
 
 .container {
-    width: 290px;
-    padding: 15px;
+    width: 18.125rem;
+    padding: 0.9375rem;
     background: var(--White);
     border-radius: 15px;
 }
@@ -39,10 +39,10 @@ h2 , p {
 h2 {
     font-size: 1.2em;
     color: var(--Dark-blue);
-    margin: 10px;
+    margin: 0.625rem;
 }
 
 p {
     color: var(--Grayish-blue);
-    padding: 8px 5px 16px 5px;
+    padding: 0.5rem 0.3125rem 1rem 0.3125rem;
 }
